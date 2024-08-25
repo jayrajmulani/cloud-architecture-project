@@ -1,0 +1,1 @@
+aws eks update-kubeconfig --name random-cluster --region=us-east-2
